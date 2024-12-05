@@ -6,7 +6,7 @@
 
 - Google Colab (No WebUI)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oItsMineZ/So-Vits-SVC-4.0-Colab/blob/main/oItsMineZ-so-vits-svc-4.0-Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oItsMineZ/oItsMineZ-so-vits-svc-4.0-Model/blob/main/oItsMineZ-so-vits-svc-4.0-Colab.ipynb)
 
 # oItsMineZ's RVC v2 Model
 
